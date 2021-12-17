@@ -6,9 +6,9 @@ from ..vars import Var
 
 StreamBot = Client(
     session_name= 'Web Streamer',
-    api_id=Var.API_ID,
-    api_hash=Var.API_HASH,
-    bot_token=Var.BOT_TOKEN,
+    api_id=Var.18162286,
+    api_hash=Var.a0b565a5bbc2024075706bac692430b2,
+    bot_token=Var.55838383:yourtbottokenhere,
     sleep_threshold=Var.SLEEP_THRESHOLD,
     workers=Var.WORKERS
 )
